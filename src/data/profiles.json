@@ -1,0 +1,177 @@
+[
+  {
+    "id": "p1",
+    "name": "Bill Gates",
+    "tagline": "Co-chair, Bill & Melinda Gates Foundation • Founder of Microsoft",
+    "linkedin": "https://www.linkedin.com/in/williamhgates",
+    "instagram": "https://www.instagram.com/thisisbillgates"
+  },
+  {
+    "id": "p2",
+    "name": "Satya Nadella",
+    "tagline": "Chairman and CEO at Microsoft",
+    "linkedin": "https://www.linkedin.com/in/satyanadella",
+    "instagram": "https://www.instagram.com/satyanadella"
+  },
+  {
+    "id": "p3",
+    "name": "Sundar Pichai",
+    "tagline": "CEO of Alphabet and Google",
+    "linkedin": "https://www.linkedin.com/in/sundarpichai",
+    "instagram": "https://www.instagram.com/sundarpichai"
+  },
+  {
+    "id": "p4",
+    "name": "Mahee Udhwani",
+    "tagline": "Building UnDate & Filmfair Events • NUS '26",
+    "linkedin": "https://www.linkedin.com/in/maheeudhwani",
+    "instagram": "https://www.instagram.com/maheeudhwani"
+  },
+  {
+    "id": "p5",
+    "name": "Reid Hoffman",
+    "tagline": "Co-founder of LinkedIn • Partner at Greylock",
+    "linkedin": "https://www.linkedin.com/in/reidhoffman",
+    "instagram": "https://www.instagram.com/reidhoffman"
+  },
+  {
+    "id": "p6",
+    "name": "Richard Branson",
+    "tagline": "Founder at Virgin Group",
+    "linkedin": "https://www.linkedin.com/in/rbranson",
+    "instagram": "https://www.instagram.com/richardbranson"
+  },
+  {
+    "id": "p7",
+    "name": "Arianna Huffington",
+    "tagline": "Founder & CEO at Thrive Global",
+    "linkedin": "https://www.linkedin.com/in/ariannahuffington",
+    "instagram": "https://www.instagram.com/ariannahuff"
+  },
+  {
+    "id": "p8",
+    "name": "Gary Vaynerchuk",
+    "tagline": "Chairman of VaynerX • CEO of VaynerMedia",
+    "linkedin": "https://www.linkedin.com/in/garyvaynerchuk",
+    "instagram": "https://www.instagram.com/garyvee"
+  },
+  {
+    "id": "p9",
+    "name": "Sara Blakely",
+    "tagline": "Founder of SPANX • Entrepreneur",
+    "linkedin": "https://www.linkedin.com/in/sarablakely",
+    "instagram": "https://www.instagram.com/sarablakely"
+  },
+  {
+    "id": "p10",
+    "name": "Tony Robbins",
+    "tagline": "Entrepreneur, Author & Philanthropist",
+    "linkedin": "https://www.linkedin.com/in/ajrobbins",
+    "instagram": "https://www.instagram.com/tonyrobbins"
+  },
+  {
+    "id": "p11",
+    "name": "Tim Ferriss",
+    "tagline": "Author of 4-Hour Workweek • Investor",
+    "linkedin": "https://www.linkedin.com/in/timferriss",
+    "instagram": "https://www.instagram.com/timferriss"
+  },
+  {
+    "id": "p12",
+    "name": "Alexis Ohanian",
+    "tagline": "Founder of Seven Seven Six • Co-founder of Reddit",
+    "linkedin": "https://www.linkedin.com/in/alexisohanian",
+    "instagram": "https://www.instagram.com/alexisohanian"
+  },
+  {
+    "id": "p13",
+    "name": "Serena Williams",
+    "tagline": "Managing Partner at Serena Ventures • Champion Athlete",
+    "linkedin": "https://www.linkedin.com/in/serenawilliams",
+    "instagram": "https://www.instagram.com/serenawilliams"
+  },
+  {
+    "id": "p14",
+    "name": "Jay Shetty",
+    "tagline": "Author, Purpose Coach & Host of On Purpose",
+    "linkedin": "https://www.linkedin.com/in/jayshetty",
+    "instagram": "https://www.instagram.com/jayshetty"
+  },
+  {
+    "id": "p15",
+    "name": "Melinda French Gates",
+    "tagline": "Founder of Pivotal Ventures • Co-chair Gates Foundation",
+    "linkedin": "https://www.linkedin.com/in/melindagates",
+    "instagram": "https://www.instagram.com/melindafrenchgates"
+  },
+  {
+    "id": "p16",
+    "name": "Deepinder Goyal",
+    "tagline": "Founder & CEO at Zomato",
+    "linkedin": "https://www.linkedin.com/in/deepindergoyal",
+    "instagram": "https://www.instagram.com/deepindergoyal"
+  },
+  {
+    "id": "p17",
+    "name": "Anupam Mittal",
+    "tagline": "Founder & CEO People Group (Shaadi.com)",
+    "linkedin": "https://www.linkedin.com/in/anupammittal",
+    "instagram": "https://www.instagram.com/anupammittal.me"
+  },
+  {
+    "id": "p18",
+    "name": "Aman Gupta",
+    "tagline": "Co-founder and CMO at boAt",
+    "linkedin": "https://www.linkedin.com/in/amangupta1",
+    "instagram": "https://www.instagram.com/aman_gupta"
+  },
+  {
+    "id": "p19",
+    "name": "Namita Thapar",
+    "tagline": "Executive Director at Emcure Pharmaceuticals",
+    "linkedin": "https://www.linkedin.com/in/namita-thapar",
+    "instagram": "https://www.instagram.com/namitathapar"
+  },
+  {
+    "id": "p20",
+    "name": "Vineeta Singh",
+    "tagline": "Co-founder & CEO at SUGAR Cosmetics",
+    "linkedin": "https://www.linkedin.com/in/vineetasingh",
+    "instagram": "https://www.instagram.com/vineetasinghs"
+  },
+  {
+    "id": "p21",
+    "name": "Ritesh Agarwal",
+    "tagline": "Founder & CEO at OYO",
+    "linkedin": "https://www.linkedin.com/in/riteshagar",
+    "instagram": "https://www.instagram.com/riteshagar"
+  },
+  {
+    "id": "p22",
+    "name": "Kunal Shah",
+    "tagline": "Founder at CRED",
+    "linkedin": "https://www.linkedin.com/in/kunalshah1",
+    "instagram": "https://www.instagram.com/kunalshah"
+  },
+  {
+    "id": "p23",
+    "name": "Gwyneth Paltrow",
+    "tagline": "Founder & CEO at Goop",
+    "linkedin": "https://www.linkedin.com/in/gwynethpaltrow",
+    "instagram": "https://www.instagram.com/gwynethpaltrow"
+  },
+  {
+    "id": "p24",
+    "name": "Jessica Alba",
+    "tagline": "Founder of The Honest Company",
+    "linkedin": "https://www.linkedin.com/in/jessicaalba",
+    "instagram": "https://www.instagram.com/jessicaalba"
+  },
+  {
+    "id": "p25",
+    "name": "Will Smith",
+    "tagline": "Actor, Founder at Westbrook Inc.",
+    "linkedin": "https://www.linkedin.com/in/willsmith",
+    "instagram": "https://www.instagram.com/willsmith"
+  }
+]
